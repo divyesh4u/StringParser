@@ -1,0 +1,6 @@
+C:\Divyesh\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Divyesh\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Divyesh\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Divyesh\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+C:\Divyesh\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Divyesh\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
